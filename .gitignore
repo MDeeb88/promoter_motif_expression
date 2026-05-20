@@ -29,3 +29,10 @@ results/temp/
 # Conda
 env/
 venv/
+# Large matrices
+data/processed/motif_matrices/
+
+# Optional large compressed files
+*.pkl
+*.parquet
+*.npz

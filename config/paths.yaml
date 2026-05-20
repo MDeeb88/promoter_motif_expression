@@ -1,0 +1,5 @@
+motif_matrix: data/processed/motif_matrices/promoter_motif_M_woTFTPM0.csv
+expression_table: data/processed/expression/expression_15DR8.csv
+results_dir: results/regression
+target_column: log2_TPM_plus_1
+id_column: gene_id
